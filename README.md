@@ -10,7 +10,7 @@
 
 > A full-stack, real-time web application engineered to simulate a modern airline booking platform. Built with a focus on **concurrency handling, database referential integrity, and seamless UI/UX**.
 
-*(📸 Add a GIF here showing real-time seat locking in action!)*
+
 
 ---
 
@@ -571,13 +571,12 @@ FLIGHT-RESERVATION-SYSTEM/
 
 ## 👨‍💻 Author
 
-**Allyan Nawab Khan**
+**Allyan Khan**
 
 BSc Computer Software Engineering @ UET Mardan
-Full-Stack Developer & AI Enthusiast
+
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-profile)
-[![Fiverr](https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/your-profile)
 
 ---
 
